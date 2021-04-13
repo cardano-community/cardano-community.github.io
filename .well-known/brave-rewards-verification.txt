@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cardano-community.github.io
+Token: 4d92bf85b780c691897de7ba35babbf0b5db0d08825eb5b1c6a9e44c54ef276d
